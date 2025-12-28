@@ -1,2 +1,3 @@
-# Eagle-Eye-Cloud-Detector
-Eagle Eye Cloud Detector is a focused infrastructure intelligence tool that identifies cloud service endpoints, CDN and edge providers, IP addresses (IPv4/IPv6), ASN ownership, and data-lake footprints for a given domain, presenting the results in a clear and concise format for security research and documentation.
+Eagle Eye Cloud Detector is a focused infrastructure intelligence tool that analyzes a domain to identify cloud service endpoints, CDN and edge providers, ASN ownership, and IPv4/IPv6 addresses.
+
+The tool presents these findings in a clear, concise, and research-friendly format, helping security researchers and analysts quickly understand hosting architecture and document meaningful infrastructure insights without noise.

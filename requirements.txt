@@ -1,0 +1,24 @@
+## 🕷️ Installing the Backend Collector
+
+Eagle Eye Cloud Detector relies on a backend OSINT collector to gather infrastructure data.  
+This collector must be installed separately before running Eagle Eye.
+
+Important Note
+Eagle Eye Cloud Detector does not perform exploitation or attacks.
+The backend collector may perform passive or active OSINT operations and could trigger alerts.
+
+Always ensure you have proper authorization before scanning any target.
+
+
+### Supported Platforms
+- Kali Linux
+- Ubuntu / Debian
+- Other Linux distributions
+
+### Installation
+
+#### Option 1: Install via System Package
+
+```bash
+sudo apt update
+sudo apt install spiderfoot
